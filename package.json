@@ -6,7 +6,9 @@
   "scripts": {
     "start": "node src/app.js"
   },
-  "keywords": [],
+  "keywords": [
+    "heroku"
+  ],
   "author": "",
   "license": "ISC",
   "dependencies": {
